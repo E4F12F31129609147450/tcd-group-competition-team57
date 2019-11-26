@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
+team 57
 
-@author: Hasan
 """
 
 import pandas as pd
